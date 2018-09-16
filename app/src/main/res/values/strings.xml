@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DicodingFauzi02</string>
+    <string name="title_prev_match">Prev. Match</string>
+    <string name="title_next_match">Next Match</string>
+</resources>
